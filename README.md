@@ -1,2 +1,2 @@
-# Frazer-Musonda
+# Calculator
 ICT261
